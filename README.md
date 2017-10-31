@@ -13,7 +13,7 @@ Angular Redux Bare-bones App using the angular-cli with the minimal option.
 Learn about Redux core concepts
 
 - [Redux three principles](https://github.com/orlando-c-h).
-- [step by step guide to integrate Angular with redux](https://github.com/orlando-c-h).
+- [Step by step guide to integrate an Angular app with Redux](https://github.com/orlando-c-h).
 
 ### Quick start
 
