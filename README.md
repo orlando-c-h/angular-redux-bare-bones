@@ -1,4 +1,6 @@
 # Angular-Redux bare-bones app
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/orlando-c-h/angular-redux-bare-bones.svg)](https://greenkeeper.io/)
 Angular Redux Bare-bones App using the angular-cli with the minimal option.
 
 ### Prerequisites
